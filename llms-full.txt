@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 534 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 535 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -4922,6 +4922,18 @@ Automated resume screening for small businesses: create and manage job posts, ra
 - Tags: recruiting, hiring, resume-screening, remote, oauth
 - Category: Finance, Commerce, and Business Apps
 - Streamable HTTP endpoint: https://app.bkkstaff.com/mcp
+
+### BlazePhoenix
+
+Official remote MCP server for the BlazePhoenix DEX aggregator on Base, Optimism, Arbitrum and Robinhood Chain: prepare a quote to run on your own RPC, decode it, and get verified calldata. No API key.
+
+- URL: https://github.com/blazephoenixxyz-crypto/blazephoenix-mcp
+- Language: JavaScript
+- Provider: BlazePhoenix
+- Official: yes
+- Tags: defi, dex, evm, calldata, remote
+- Category: Finance, Commerce, and Business Apps
+- Streamable HTTP endpoint: https://blazephoenix.xyz/mcp
 
 ### BlockVectra
 

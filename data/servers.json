@@ -4516,6 +4516,25 @@
     }
   },
   {
+    "name": "BlazePhoenix",
+    "url": "https://github.com/blazephoenixxyz-crypto/blazephoenix-mcp",
+    "description": "Official remote MCP server for the BlazePhoenix DEX aggregator on Base, Optimism, Arbitrum and Robinhood Chain: prepare a quote to run on your own RPC, decode it, and get verified calldata. No API key.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "JavaScript",
+    "provider": "BlazePhoenix",
+    "tags": [
+      "defi",
+      "dex",
+      "evm",
+      "calldata",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://blazephoenix.xyz/mcp"
+    }
+  },
+  {
     "name": "Agent Payment Node",
     "url": "https://github.com/nuanu-ai/agent-payment-node",
     "description": "Local CLI and stdio MCP payment tools for AI agents on macOS Apple Silicon, with foreground human approval for signing.",
